@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "majesti";
+    src: url("Majesti-Banner-Medium.otf");
+    font-weight: normal; 
+    font-style: normal; 
+
+}
+h1 {
+    color: rgb(240, 78, 35);
+    background-color: rgb( 65, 57, 61);
+    font-family: majesti, Arial, Helvetica, sans-serif; 
+    font-size: 50px;
+}
+body{
+    max-width: 900px;
+}
+h2 {
+    color: rgb(240, 78, 35);
+    font-family: majesti, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+p {
+    color: rgb( 65, 57, 61);
+    font-family: majesti, Arial, Helvetica, sans-serif;
+    font-size: 15;
+}
